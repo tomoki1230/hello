@@ -4,8 +4,31 @@ h1 {
 
 h2 {
   color: blue;
+
 }
 
 h3 {
-  color: green
+  font-style: oblique;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+h5 {
+  font-style: italic;
+}
+
+h6 {
+  text-align: center;
+}
+
+ui {
+  color: brown;
+}
+
+textarea {
+  width: 500px;
+  height: 100px;
+  background-color: rgb(231, 231, 231);
 }
